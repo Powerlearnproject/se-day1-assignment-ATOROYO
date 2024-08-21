@@ -140,5 +140,3 @@ Provide an example of a vague prompt and then improve it by making it clear, spe
 # => Improved Prompt: "Compare and contrast electric and gasoline-powered vehicles in terms of environmental impact, cost, and performance."
 
 # => This prompt is clear, specific, and concise because it explicitly states the desired information. It focuses on a specific comparison between two types of vehicles and outlines the key points to be addressed. This specificity helps the AI generate a more relevant and informative response.
-
-Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
